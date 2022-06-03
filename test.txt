@@ -1,1 +1,3 @@
 We're testing git rebase
+
+This file exists only for demonstration purposes
