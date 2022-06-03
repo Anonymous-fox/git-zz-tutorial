@@ -1,1 +1,3 @@
 We're on a branch to rebase
+
+This file exists to demonstrate hoe rebase works
