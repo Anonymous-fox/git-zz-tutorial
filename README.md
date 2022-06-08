@@ -7,6 +7,6 @@ I higly recommend learning from it!
 
 Here I will insert lines only to modify this file
 
-1
-2
-3
+First inserted line
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum voluptate reiciendis aliquid excepturi debitis minima laudantium fugit. Cupiditate incidunt, facilis odit unde reiciendis autem saepe vel quasi. Ratione, cumque neque.
